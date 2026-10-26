@@ -14,7 +14,7 @@ const experiment = {
 
 const btn = document.querySelector(".button-default");
 const stimulus = document.querySelector(".circle");
-const audios = [{ name: "beep", audio: new Audio("beep-07a.mp3") },
+const audios = [{ name: "beep", audio: new Audio("beep.mp3") },
                 { name: "altbeep", audio: new Audio("altbeep.mp3") }];
 
 
